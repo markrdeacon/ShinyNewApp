@@ -2,7 +2,7 @@
 ##This is some lovely markdown
 ----------
 ```javascript
-function() {
+function doSomethingAmazing() {
 	var x = 1;
 	return x;
 }
